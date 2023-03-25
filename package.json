@@ -1,0 +1,21 @@
+{
+  "name": "girly-pop-dark",
+  "displayName": "Girly Pop Dark",
+  "description": "Dark Girly Pop theme for my GIrly Pop Laptop",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Girly Pop Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Girly Pop Dark-color-theme.json"
+      }
+    ]
+  }
+}
