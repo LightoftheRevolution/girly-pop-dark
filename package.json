@@ -3,6 +3,11 @@
   "displayName": "Girly Pop Dark",
   "description": "Dark Girly Pop theme for my GIrly Pop Laptop",
   "version": "0.0.1",
+  "publisher": "LightoftheRevolution",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LightoftheRevolution/girly-pop-dark"
+  },
   "engines": {
     "vscode": "^1.76.0"
   },
